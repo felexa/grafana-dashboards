@@ -30,6 +30,8 @@
     "@types/react": "^16.0.25",
     "@types/react-dom": "^16.9.0",
     "babel-jest": "^24.9.0",
+    "codeceptjs-resemblehelper": "^1.9.0",
+    "codeceptjs-saucehelper": "^1.4.0",
     "copy-webpack-plugin": "^4.5.1",
     "css-loader": "^3.2.0",
     "extract-text-webpack-plugin": "^4.0.0-beta.0",
@@ -45,6 +47,11 @@
     "react-test-renderer": "^16.12.0",
     "replace-in-file-webpack-plugin": "^1.0.6",
     "sass-loader": "^7.3.1",
+<<<<<<< Updated upstream
+=======
+    "selenium-standalone": "^6.17.0",
+    "sql-formatter": "^2.3.3",
+>>>>>>> Stashed changes
     "style-loader": "^1.0.0",
     "ts-loader": "^4.4.0",
     "typescript": "^3.6.3",
@@ -58,10 +65,16 @@
     "@grafana/runtime": "^6.5.2",
     "antd": "^3.24.3",
     "axios": "^0.19.0",
+    "codeceptjs": "^2.5.0",
     "emotion": "^10.0.27",
     "final-form": "^4.18.5",
     "history": "^4.10.1",
     "lodash": "^4.17.15",
+<<<<<<< Updated upstream
+=======
+    "numeral": "^2.0.6",
+    "puppeteer": "^2.1.1",
+>>>>>>> Stashed changes
     "react": "^16.11.0",
     "react-final-form": "^6.3.0",
     "react-json-view": "^1.19.1",
